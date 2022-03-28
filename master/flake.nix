@@ -11,7 +11,6 @@
   inputs.src-couchdb-master.ref   = "refs/heads/master";
   inputs.src-couchdb-master.owner = "theAkito";
   inputs.src-couchdb-master.repo  = "nim-couchdb";
-  inputs.src-couchdb-master.dir   = "";
   inputs.src-couchdb-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
