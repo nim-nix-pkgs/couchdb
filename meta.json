@@ -6,8 +6,7 @@
   "description": "A library for managing your CouchDB. Easy & comfortably to use.",
   "license": "GPL-3.0-or-later",
   "refs": [
-    "error: RPC failed; curl 16 Error in the HTTP2 framing layer",
-    "fatal: expected flush after ref listing",
+    "fatal: unable to access 'https://github.com/theAkito/nim-couchdb/': OpenSSL SSL_read: Network is unreachable, errno 101",
     ""
   ],
   "heads": []
